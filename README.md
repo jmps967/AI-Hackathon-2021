@@ -11,6 +11,13 @@ India Academia Connect AI Hackathon : Digital Event : October 4-13, 2021
     - Sohomjit Ganguli
     - Sudeesh Sukumaran
 
+- Team submission: 
+    
+    - json output sample :
+    - model building notebook : 
+
+
+## *Let's understand brief about the hackthon...* ##
 
 ### Background : -
 
