@@ -9,7 +9,7 @@ Artificial intelligence will be an enormous part of the future workforce. It’s
 ### *Event Format* ###
 This Hackathon will be hosted online with all times Indian Standard Time (IST). All communication will be done through Zoom, Slack and email. 
 
-### *Problem State* ###
+### *Problem Statement* ###
 During the event, participants will be working on a problem of Image classification. The input dataset will consist of images containing Hindi characters. The challenge is to identify the presence of a character in images using Convolutional Neural Networks.
 
 The dataset will contain the following:
