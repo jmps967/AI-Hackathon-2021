@@ -36,7 +36,7 @@ The dataset will contain the following :-
 Submissions are evaluated on Accuracy Score between the predicted and the actual labels on the test dataset.
 
 ### *Must follow Rules :-* ###
-- You can download the dataset from this Drive Link.
+- You can download the dataset from this [Drive Link](https://drive.google.com/drive/folders/1O8TT0s4zMyiI6zR-biVRoiLiAUy-W1H0).
     - The dataset consists of a README file.
 - Fill out and submit the official application form by Sept 19, 2021. 
   The application calls for teams to provide test results for problem statements. 
@@ -48,7 +48,7 @@ Teams attending the event will be given access to a GPU cluster with Tesla V100 
 ### *Leaderboard :-* ###
 The teams are allowed to change the submissions after logging into account till the registration deadline. The submission will be evaluated on daily basis and leaderboard will be updated based on score that represents the evaluation on test data. 
 
-**Daily leaderboard updates: India Academia Connect AI Hackathon Leaderboard**
+**[Daily leaderboard updates: India Academia Connect AI Hackathon Leaderboard](https://drive.google.com/drive/folders/1O8TT0s4zMyiI6zR-biVRoiLiAUy-W1H0)**
  
 
 ### *Prerequisites :-* ###
