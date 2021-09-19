@@ -46,4 +46,7 @@ The top 3 teams at the end of the event will win prizes amounting to 5 Lakh INR 
 ### *Event Focus :-* ###
 AI
 
+### *More Details :-* ###
+https://gpuhackathons.org/event/india-academia-connect-ai-hackathon
+
 **THANK YOU**
