@@ -11,7 +11,7 @@ We are learners and practitioners.
     - Dr. Chitra Desai
     - Dheeraj Kumar Maurya
     - Harshada Mali
-    - Sohomjit Ganguli
+    - Sohomjit Ganguly
     - Sudeesh Sukumaran
 
 - Team submission: 
