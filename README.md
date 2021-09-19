@@ -2,7 +2,7 @@
 
 India Academia Connect AI Hackathon : Digital Event : October 4-13, 2021
 
-### Team Members : - ###
+### Team (Rock) Members : - ###
  
     - Jigna Thacker
     - Dr. Chitra Desai
@@ -13,8 +13,8 @@ India Academia Connect AI Hackathon : Digital Event : October 4-13, 2021
 
 - Team submission: 
     
-    - json output sample :
-    - model building notebook : 
+    - [json output sample :](https://github.com/jmps967/AI-Hackathon-2021/json_output.txt)
+    - [model building notebook :](https://github.com/jmps967/AI-Hackathon-2021/team_rock.ipynb) 
 
 
 ## *Let's understand brief about the hackthon...* ##
