@@ -16,8 +16,8 @@ We are learners and practitioners.
 
 - Team submission: 
     
-    - [json output sample :](https://github.com/jmps967/AI-Hackathon-2021/Team_Rock.json)
-    - [model building notebook :](https://github.com/jmps967/AI-Hackathon-2021/Team_Rock.ipynb) 
+    - [json output sample :](https://github.com/jmps967/AI-Hackathon-2021/blob/main/Team_Rock.json)
+    - [model building notebook :](https://github.com/jmps967/AI-Hackathon-2021/blob/main/Team_Rock.ipynb) 
 
 
 ## *Let's understand brief about the hackthon...* ##
