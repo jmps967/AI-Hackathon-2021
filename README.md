@@ -2,6 +2,9 @@
 
 India Academia Connect AI Hackathon : Digital Event : October 4-13, 2021
 
+We have participated as **Team Rock** with 6 unique team members coming from diverse areas like Academia , Research student and corporate professional .
+We are learners and practitioners.
+
 ### Team (Rock) Members : - ###
  
     - Jigna Thacker
